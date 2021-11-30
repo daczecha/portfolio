@@ -9,6 +9,9 @@ This is my personal portfolio where I showcase my projects.
     [Repository](https://github.com/daczecha/todo)
 
 
+
+
+
 - #### Simple Calculator
     ##### Simple Calculator App (add, substract, divide, multiply)
     ###### first time creating two themes for page
