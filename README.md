@@ -27,7 +27,7 @@ This is my personal portfolio where I showcase my projects.
     ##### Pixel Art Painting Programm
     >Second project made for The Odin Project
     >
-    >[Live Preview](https://daczecha.github.io/pxart/).
+    >[Live Preview](https://daczecha.github.io/pxart/)
     >
     >[Repository](https://github.com/daczecha/pxart)
 
