@@ -64,9 +64,9 @@ This is my personal portfolio where I showcase my projects.
 - #### rock-paper-scissors 
     ##### Rock Paper Scissors Game v2.0
 
-    >[Live Preview](https://daczecha.github.io/rock-paper-scissors/)
+    >[Live Preview](https://daczecha.github.io/rock-paper-scissors2/)
     >
-    >[Repository](https://github.com/daczecha/rock-paper-scissors/)
+    >[Repository](https://github.com/daczecha/rock-paper-scissors2/)
 
 
 - #### drum-machine
