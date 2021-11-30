@@ -2,15 +2,11 @@
 This is my personal portfolio where I showcase my projects.
 
 - #### To Do App
-    ##### Create projects, add tasks, complete them and track your todo's
-    ###### used localStorage, form-validation, created mobile-responsive design. Used Webpack,babel,npm
+    >##### Create projects, add tasks, complete them and track your todo's
+    >###### used localStorage, form-validation, created mobile-responsive design. Used Webpack,babel,npm
 
-    [Live Preview](https://daczecha.github.io/todo/).
-    [Repository](https://github.com/daczecha/todo)
-
-
-
-
+    >[Live Preview](https://daczecha.github.io/todo/).
+    >[Repository](https://github.com/daczecha/todo)
 
 - #### Simple Calculator
     ##### Simple Calculator App (add, substract, divide, multiply)
