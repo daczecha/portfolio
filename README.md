@@ -1,6 +1,13 @@
 # portfolio
 This is my personal portfolio where I showcase my projects.
 
+- #### Dari
+    ##### Weather Forecast Website 
+    >###### Used Openweathermap,Webpack,npm
+    >[Live Preview](https://daczecha.github.io/dari/)
+    >
+    >[Repository](https://github.com/daczecha/dari)
+
 - #### To Do App
     ##### Create projects, add tasks, complete them and track your todo's
     >###### used localStorage, form-validation, created mobile-responsive design. Used Webpack,babel,npm
